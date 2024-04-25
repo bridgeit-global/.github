@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are a group of developers who absolutely low working on next generation of technologies.
+We are a group of developers who absolutely love working on next generation of technologies.
 
 We want to enable organizations create experiences instead of wireframes of product
 

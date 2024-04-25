@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 We are a group of developers who absolutely love working on next generation of technologies.
-
-We want to enable organizations create experiences instead of wireframes of product
-
-Hence, onwards we aim to create repository of open source implementation on Intuition based applications, i.e Visual & Verbal
+We are what we are because of many open source projects, and we want to give back to amazing community.
 <!--
 
 **Here are some ideas to get you started:**
